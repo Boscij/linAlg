@@ -1,0 +1,34 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+
+# LaTeX source (nicht für Studierende)
+*.tex
+
+# Bilder und sonstige lokale Dateien
+*.jpg
+*.png
+*.svg
+*.pdf.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+CLAUDE.md
