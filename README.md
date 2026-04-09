@@ -21,6 +21,8 @@ Das Notebook zeigt lineare Regression in Python: von den Rohdaten bis zur Normal
 
 Direkt im Browser öffnen — kein lokales Python nötig:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Boscij/linAlg/blob/main/regression_notebook.ipynb)
+[![Open in JupyterLite](https://img.shields.io/badge/Open%20in-JupyterLite-blue)](https://Boscij.github.io/linAlg/lab/index.html?path=regression_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Boscij/linAlg/blob/main/content/regression_notebook.ipynb)
 
-> **Hinweis Google Colab:** Für dauerhaftes Speichern eigener Änderungen: **File → Save a copy in Drive**.
+> **JupyterLite:** Startet sofort im Browser. Änderungen am Ende herunterladen.
+> **Google Colab:** Für dauerhaftes Speichern: **File → Save a copy in Drive**.
