@@ -32,3 +32,8 @@ Thumbs.db
 # Claude
 .claude/
 CLAUDE.md
+
+# Nicht für GitHub
+AppliedMath_Talk/
+CBW_Lageplan*.pdf
+Themenstellung*.pdf
